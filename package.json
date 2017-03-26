@@ -1,0 +1,29 @@
+{
+  "name": "barbershop-borodinski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts":{
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies":{
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.18.8",
+    "gulp-less": "^3.3.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.8"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/melancholymarch/Barbershop-Borodinski.git"
+  },
+  "author": "melancholymarch",
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/melancholymarch/Barbershop-Borodinski/issues"
+  },
+  "homepage": "https://github.com/melancholymarch/Barbershop-Borodinski#readme"
+}
